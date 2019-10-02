@@ -484,7 +484,8 @@ ul {
 	  <li><strong>Space</strong> pauses</li>
 	  <li><strong>R</strong> restarts </li>
 	  <li><strong>F</strong> toggles fullscreen</li>
-	  <li><strong>M</strong> toggles Matthew McConaughey</li>
+	  <li><strong>M</strong> toggles mute</li>
+	  <li><strong>B</strong> is beast mode</li>
 	  <li><strong>1-9</strong> adds bonus time (in minutes)
 	  <li><strong>0</strong> adds 10 minutes
 	  <li><strong>T</strong> adds 10 seconds
