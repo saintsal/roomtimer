@@ -492,7 +492,6 @@ ul {
       </Menu>
   </div>
   <div id="footer">
-    {isMuted} 
     Made by <a href="http://source.institute"><img alt="Source" src="/images/logo.png" class="logo"></a>
   </div>
 
